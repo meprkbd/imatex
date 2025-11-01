@@ -2,6 +2,8 @@
 
 ![Banner](banner.png)
 
+🔗 **Live Demo:** [imatex.vercel.app](https://imatex.vercel.app)
+
 A lightweight web app that extracts and converts text from images using **Tesseract.js**, a pure JavaScript OCR engine.  
 Upload or drag & drop an image, and it instantly converts the image into editable text — all processed locally in your browser.
 
